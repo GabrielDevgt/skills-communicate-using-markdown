@@ -47,8 +47,8 @@ GitHub Actions went ahead and made a branch for you. So you'll need to add to th
 1. Use Markdown to create a task list. Here is an example:
 
    ```md
-   - [ ] Turn on GitHub Pages
-   - [ ] Outline my portfolio
+   - [X ] Turn on GitHub Pages
+   - [X] Outline my portfolio
    - [ ] Introduce myself to the world
    ```
 
