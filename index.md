@@ -1,6 +1,7 @@
-# Hi, this file at edit for my!
-## okay let´s go
+# Course #2 Github!
+## This subtitle his example of makrdown h2
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 
 ### Example 2
 # This code is a example of Language Java, create a var of name 
@@ -11,7 +12,9 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
-#TALK LIST
-  - [X] Finalizar listado de tareas de step 4
-  - [ ] Outline my portfolio
-  - [ ] Introduce myself to the world
+### this is example of talk list
+  - [X] Example 1
+  - [x] Example 2
+  - [x] Example 3
+  - [ ] Example 4
+  - [ ] Continue... 
