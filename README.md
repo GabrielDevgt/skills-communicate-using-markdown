@@ -41,11 +41,7 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
-### Example 2
-# This code is a example of Language Java, create a var of name 
-## my var and asignet a string 
-### "Hello Word!";
-####  concluide with point da comme
+
 <pre>
 ``` javascript
 var myVar = "Hello, world!";
