@@ -11,6 +11,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+#TALK LIST
   - [X] Finish the introduction a Github
   - [ ] Outline my portfolio
   - [ ] Introduce myself to the world
