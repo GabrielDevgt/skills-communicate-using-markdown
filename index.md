@@ -12,6 +12,6 @@
 var myVar = "Hello, world!";
 ```
 #TALK LIST
-  - [X] Finish the introduction a Github
+  - [X] Finalizar listado de tareas de step 4
   - [ ] Outline my portfolio
   - [ ] Introduce myself to the world
